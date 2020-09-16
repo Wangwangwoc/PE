@@ -1,0 +1,4 @@
+﻿  CopyFile.cpp
+D:\Users\wangxingyu3\2020年9月\codeTest\新增节项目\新增节\新增节\GetPEInfo.h(106): warning C4715: “PEInfo::RVAToFOA”: 不是所有的控件路径都返回值
+D:\Users\wangxingyu3\2020年9月\codeTest\新增节项目\新增节\新增节\GetPEInfo.h(149): warning C4715: “PEInfo::fileToImage”: 不是所有的控件路径都返回值
+  新增节.vcxproj -> D:\Users\wangxingyu3\2020年9月\codeTest\新增节项目\新增节\Debug\新增节.exe
