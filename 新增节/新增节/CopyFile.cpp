@@ -11,9 +11,10 @@ int main() {
 	PEInfo* Ppefile;
 	PEInfo pefile(Pname);
 	Ppefile = &pefile;
-	char funcName[] = "b";
+	char funcName[] = "d";
 	char* pFuncName = funcName;
 	//pefile.GetExport(pFuncName);
+	pefile.GetRelocs();
 	//pefile.fileToImage();
 	//pefile.changeFile();
 	//pefile.expandSection(expand );
